@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "color";
+    src: url(font/color.woff);
+}
+blue{
+    font-size: 30px;
+    font-family: "color";
+    color: blue;
+}
+black{
+    font-size: 30px;
+    font-family: "color";
+    color: black;
+}
+green{
+    font-size: 30px;
+    font-family: "color";
+    color: green;
+}
+red{
+    font-size: 30px;
+    font-family: "color";
+    color: red; 
+}

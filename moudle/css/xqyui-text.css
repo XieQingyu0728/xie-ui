@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "title";
+    src: url(font/title.woff);
+}
+@font-face {
+    font-family: "square";
+    src: url(font/square.woff);
+}
+@font-face {
+    font-family: "text";
+    src: url(font/text.woff);
+}
+tit{
+    font-size: 60px;
+    font-family: "title";
+}
+square{
+   font-size: 50px; 
+   font-family: "square";
+}
+text{
+    font-size: 30px;
+    font-family: "text";
+}
